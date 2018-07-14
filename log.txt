@@ -1,0 +1,110 @@
+0: {
+  "Tweet: ": "*Reversing the car* \"Ah, this takes me back\"",
+  "Created at: ": "Sat Jul 14 19:22:49 +0000 2018"
+}1: {
+  "Tweet: ": "My New Years resolution is to stop leaving things so late.",
+  "Created at: ": "Sat Jul 14 19:22:23 +0000 2018"
+}2: {
+  "Tweet: ": "I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.",
+  "Created at: ": "Sat Jul 14 19:21:54 +0000 2018"
+}3: {
+  "Tweet: ": "I was thinking about moving to Moscow but there is no point Russian into things.",
+  "Created at: ": "Sat Jul 14 19:21:37 +0000 2018"
+}4: {
+  "Tweet: ": "Velcro… What a rip-off.",
+  "Created at: ": "Sat Jul 14 19:21:18 +0000 2018"
+}5: {
+  "Tweet: ": "I went on a date last night with a girl from the zoo. It was great. She’s a keeper.",
+  "Created at: ": "Sat Jul 14 19:21:03 +0000 2018"
+}6: {
+  "Tweet: ": "If at first you don't succeed, sky diving is not for you.",
+  "Created at: ": "Sat Jul 14 19:20:21 +0000 2018"
+}7: {
+  "Tweet: ": "Just read a few facts about frogs. They were ribbiting.",
+  "Created at: ": "Sat Jul 14 19:20:03 +0000 2018"
+}8: {
+  "Tweet: ": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
+  "Created at: ": "Sat Jul 14 19:19:33 +0000 2018"
+}9: {
+  "Tweet: ": "People who don't eat gluten are really going against the grain.",
+  "Created at: ": "Sat Jul 14 19:19:13 +0000 2018"
+}10: {
+  "Tweet: ": "This morning I was wondering where the sun was, but then it dawned on me.",
+  "Created at: ": "Sat Jul 14 19:18:12 +0000 2018"
+}11: {
+  "Tweet: ": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
+  "Created at: ": "Sat Jul 14 19:17:09 +0000 2018"
+}12: {
+  "Tweet: ": "Mountains aren't just funny, they are hill areas.",
+  "Created at: ": "Sat Jul 14 19:16:48 +0000 2018"
+}13: {
+  "Tweet: ": "A cannibal is someone who is fed up with people.",
+  "Created at: ": "Sat Jul 14 19:16:30 +0000 2018"
+}14: {
+  "Tweet: ": "I cut my finger chopping cheese, but I think that I may have grater problems.",
+  "Created at: ": "Sat Jul 14 19:16:17 +0000 2018"
+}15: {
+  "Tweet: ": "I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.",
+  "Created at: ": "Sat Jul 14 19:14:57 +0000 2018"
+}16: {
+  "Tweet: ": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",
+  "Created at: ": "Sat Jul 14 19:14:23 +0000 2018"
+}17: {
+  "Tweet: ": "I used to hate facial hair, but then it grew on me.",
+  "Created at: ": "Sat Jul 14 19:14:09 +0000 2018"
+}18: {
+  "Tweet: ": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
+  "Created at: ": "Sat Jul 14 19:13:14 +0000 2018"
+}19: {
+  "Tweet: ": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+  "Created at: ": "Sat Jul 14 19:11:59 +0000 2018"
+}
+================Spotify Search================
+Artist: Kendrick Lamar
+Song Title: LOYALTY. FEAT. RIHANNA.
+Album Title: DAMN.
+Preview URL: null
+================Spotify Search================
+Artist: Kendrick Lamar
+Song Title: LOYALTY. FEAT. RIHANNA.
+Album Title: DAMN.
+Preview URL: null
+================Spotify Search================
+Artist: Sufjan Stevens
+Song Title: Futile Devices
+Album Title: The Age of Adz
+Preview URL: https://p.scdn.co/mp3-preview/b7d930a5b6d413dedb4e2db1f802b8790adf0d16?cid=f330db0a0697468d97fc0e6e86483952
+================Spotify Search================
+Artist: Say Anything
+Song Title: Spidersong
+Album Title: Is a Real Boy
+Preview URL: https://p.scdn.co/mp3-preview/1eaedf96c5531774feba92b59a5ae10f6c29c54e?cid=f330db0a0697468d97fc0e6e86483952
+================Spotify Search================
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Album Title: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f330db0a0697468d97fc0e6e86483952
+================Movie Search================
+Title: Office Space
+Year: 1999
+IMDB Rating: 7.8
+Country: USA
+Language: English
+Actor(s): Ron Livingston, Jennifer Aniston, David Herman, Ajay Naidu
+Plot: Three company workers who hate their jobs decide to rebel against their greedy boss.
+================Movie Search================
+Title: Step Brothers
+Year: 2008
+IMDB Rating: 6.9
+Country: USA
+Language: English, Spanish
+Actor(s): Will Ferrell, John C. Reilly, Mary Steenburgen, Richard Jenkins
+Plot: Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.
+================Movie Search================
+Title: Mamma mia
+Year: 1998
+IMDB Rating: 6.0
+Country: Italy
+Language: Italian
+Actor(s): Maria Busca, Eugenio Del Prete, Daniela Mangiasciutto, Massimiliano Molinari
+Plot: Urban stories, love affairs and parental relationships.
