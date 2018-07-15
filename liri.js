@@ -1,6 +1,6 @@
 require("dotenv").config();
 
-//npm's required for liri
+//npm's for liri
 var fs = require("fs");
 var twitter = require("twitter");
 var spotify = require("node-spotify-api");
@@ -12,7 +12,7 @@ var searchInput = "";
 var spotify = new spotify(keys.spotify);
 var client = new twitter(keys.twitter);
 
-//input is greater than 1 word
+//input is more than one word
 if (process.argv.length > 2) {
     for (var i = 3; i < process.argv.length; i++) {
         searchInput += process.argv[i] + "+";
@@ -30,7 +30,7 @@ var twitterCall = function() {
                 "Created at: ": tweets[i].created_at,
         });
     }
-        console.log("\nHere are the twitter responses: ");
+        console.log("\nDad joke twitter responses: ");
         //prints to command line
         for (var g = 0; g < status.length; g++) {
             console.log("\nTweet " + g + ": " + JSON.stringify(status[g], null, 2));
@@ -123,7 +123,7 @@ var doWhatItSays = function() {
     })
 }
 
-//user selector
+//user
 var select = function(caseInfo) {
     switch (caseInfo) {
         case "my-tweets":
