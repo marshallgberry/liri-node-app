@@ -27,7 +27,7 @@ var twitterCall = function() {
         for (i = 0; i < tweets.length; i++) {
             status.push({
                 "Tweet: ": tweets[i].text,
-                "Created at: ": tweets[i].created_at,
+                "Created on: ": tweets[i].created_at,
         });
     }
         console.log("\nDad joke twitter responses: ");
