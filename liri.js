@@ -32,10 +32,10 @@ var twitterCall = function() {
     }
         console.log("\nHere are the twitter responses: ");
         //prints to command line
-        for (var j = 0; j < status.length; j++) {
-            console.log("\nTweet " + j + ": " + JSON.stringify(status[j], null, 2));
+        for (var g = 0; g < status.length; g++) {
+            console.log("\nTweet " + g + ": " + JSON.stringify(status[g], null, 2));
     
-            fs.appendFile("log.txt","\r" + j + ": " + JSON.stringify(status[j], null, 2) + "\r", function(err) {
+            fs.appendFile("log.txt","\r" + g + ": " + JSON.stringify(status[g], null, 2) + "\r", function(err) {
                 if (err) {
                     console.log(err);
                 } 
@@ -65,7 +65,7 @@ var spotifyCall = function(searchInput) {
             if (err) {
                 console.log(err);
             } else {
-                console.log("Spotify Search saved to log.txt");
+                console.log("Great Success!");
             }
         })
       });      
@@ -78,7 +78,7 @@ var omdbCall = function(searchInput) {
     }
     var queryUrl = "http://www.omdbapi.com/?t=" + searchInput + "&y=&plot=short&apikey=trilogy";
     request(queryUrl, function(err, response, body) {
-        //rotten tomates rating
+        //rotten tomatoes rating
         var Movie = JSON.parse(body);
         var movieRatings = function() {
             if (JSON.parse(body).Ratings.length < 2 ) {
@@ -92,7 +92,7 @@ var omdbCall = function(searchInput) {
             console.log("Movie Title: " + Movie.Title);
             console.log("Year: " + Movie.Year);
             console.log("IMDB Rating: " + Movie.imdbRating);
-            movieRatings(); //rotten tomates rating
+            movieRatings();
             console.log("Country: " + Movie.Country);
             console.log("Language: " + Movie.Language);
             console.log("Actor(s): " + Movie.Actors);
@@ -100,11 +100,11 @@ var omdbCall = function(searchInput) {
             console.log("\n=======================\n");       
         }
         if (!err && response.statusCode === 200) {
-            fs.appendFile("log.txt", "\r\r\n================Movie Search================" + "\r\nTitle: " + Movie.Title + "\r\nYear: " + Movie.Year + "\r\nIMDB Rating: " + Movie.imdbRating + "\r\nCountry: " + Movie.Country + "\r\nLanguage: " + Movie.Language + "\r\nActor(s): " + Movie.Actors + "\r\nPlot: " + Movie.Plot, function(err) {
+            fs.appendFile("log.txt", "\r\r\n================Movie Search================" + "\r\nTitle: " + Movie.Title + "\r\nYear: " + Movie.Year + "\r\nIMDB Rating: " + Movie.imdbRating +"\r\Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[1].Value + "\r\nCountry: " + Movie.Country + "\r\nLanguage: " + Movie.Language + "\r\nActor(s): " + Movie.Actors + "\r\nPlot: " + Movie.Plot, function(err) {
                 if (err) {
                     console.log(err);
                 } else {
-                    console.log("Movie Info written to file");
+                    console.log("Great Success!");
                 }
             });    
         }
@@ -139,7 +139,7 @@ var select = function(caseInfo) {
             doWhatItSays();
             break;
         default:
-            console.log("Selection Unknown!");
+            console.log("Whatchu Talkin' Bout?!");
     }
 } 
 //executes
