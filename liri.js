@@ -54,14 +54,14 @@ var spotifyCall = function(searchInput) {
         if (err) {
           return console.log('Error occurred: ' + err);
         }
-        console.log("\n=======================\n");
+        console.log("\n-------------------------\n");
         console.log("Artist: " + songSearch.artists[0].name);
         console.log("Song Title: " + songSearch.name);
         console.log("Album Title: " + songSearch.album.name);
         console.log("Preview URL: " + songSearch.preview_url);
-        console.log("\n=======================\n");
+        console.log("\n-------------------------\n");
         var spotifyArray = [];
-        fs.appendFile("log.txt","\r\r\n================Spotify Search================" + "\r\nArtist: " + songSearch.artists[0].name + "\r\nSong Title: " + songSearch.name + "\r\nAlbum Title: " + songSearch.album.name + "\r\nPreview URL: " + songSearch.preview_url, function(err) {
+        fs.appendFile("log.txt","\r\r\n--------------------Spotify Search--------------------" + "\r\nArtist: " + songSearch.artists[0].name + "\r\nSong Title: " + songSearch.name + "\r\nAlbum Title: " + songSearch.album.name + "\r\nPreview URL: " + songSearch.preview_url, function(err) {
             if (err) {
                 console.log(err);
             } else {
@@ -88,7 +88,7 @@ var omdbCall = function(searchInput) {
             }
         }       
         if (!err && response.statusCode === 200) {
-            console.log("\n=======================\n");
+            console.log("\n-------------------------\n");
             console.log("Movie Title: " + Movie.Title);
             console.log("Year: " + Movie.Year);
             console.log("IMDB Rating: " + Movie.imdbRating);
@@ -97,10 +97,10 @@ var omdbCall = function(searchInput) {
             console.log("Language: " + Movie.Language);
             console.log("Actor(s): " + Movie.Actors);
             console.log("Plot: " + Movie.Plot);     
-            console.log("\n=======================\n");       
+            console.log("\n-------------------------\n");       
         }
         if (!err && response.statusCode === 200) {
-            fs.appendFile("log.txt", "\r\r\n================Movie Search================" + "\r\nTitle: " + Movie.Title + "\r\nYear: " + Movie.Year + "\r\nIMDB Rating: " + Movie.imdbRating +"\r\Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[1].Value + "\r\nCountry: " + Movie.Country + "\r\nLanguage: " + Movie.Language + "\r\nActor(s): " + Movie.Actors + "\r\nPlot: " + Movie.Plot, function(err) {
+            fs.appendFile("log.txt", "\r\r\n--------------------Movie Search--------------------" + "\r\nTitle: " + Movie.Title + "\r\nYear: " + Movie.Year + "\r\nIMDB Rating: " + Movie.imdbRating +"\r\Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[1].Value + "\r\nCountry: " + Movie.Country + "\r\nLanguage: " + Movie.Language + "\r\nActor(s): " + Movie.Actors + "\r\nPlot: " + Movie.Plot, function(err) {
                 if (err) {
                     console.log(err);
                 } else {
@@ -142,9 +142,9 @@ var select = function(caseInfo) {
             console.log("Whatchu Talkin' Bout?!");
     }
 } 
-//executes
+
 var execute = function(arg1, arg2) {
     select(arg1, arg2);
 }
-//takes user input
+
 execute(process.argv[2], process.argv[3]);
