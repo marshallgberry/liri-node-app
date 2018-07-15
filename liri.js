@@ -47,7 +47,7 @@ var twitterCall = function() {
 //spotify
 var spotifyCall = function(searchInput) {
     if (searchInput == "") {
-        searchInput = "LOYALTY+Kendrick+Lamar";
+        searchInput = "The+Sign+Ace+of+Base";
     }
     spotify.search({ type: 'track', query: searchInput, limit: 1}, function(err, data) {
         var songSearch = data.tracks.items[0];
@@ -74,7 +74,7 @@ var spotifyCall = function(searchInput) {
 //ombd
 var omdbCall = function(searchInput) {
     if (searchInput == "") {
-        searchInput = "Office+Space";
+        searchInput = "Mr+Nobody";
     }
     var queryUrl = "http://www.omdbapi.com/?t=" + searchInput + "&y=&plot=short&apikey=trilogy";
     request(queryUrl, function(err, response, body) {
