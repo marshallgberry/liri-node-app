@@ -1,6 +1,6 @@
 require("dotenv").config();
 
-//packages required for liri
+//npm's required for liri
 var fs = require("fs");
 var twitter = require("twitter");
 var spotify = require("node-spotify-api");
