@@ -1,0 +1,92 @@
+0: {
+  "Tweet: ": "*Reversing the car* \"Ah, this takes me back\"",
+  "Created at: ": "Sat Jul 14 19:22:49 +0000 2018"
+}1: {
+  "Tweet: ": "My New Years resolution is to stop leaving things so late.",
+  "Created at: ": "Sat Jul 14 19:22:23 +0000 2018"
+}2: {
+  "Tweet: ": "I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.",
+  "Created at: ": "Sat Jul 14 19:21:54 +0000 2018"
+}3: {
+  "Tweet: ": "I was thinking about moving to Moscow but there is no point Russian into things.",
+  "Created at: ": "Sat Jul 14 19:21:37 +0000 2018"
+}4: {
+  "Tweet: ": "Velcro… What a rip-off.",
+  "Created at: ": "Sat Jul 14 19:21:18 +0000 2018"
+}5: {
+  "Tweet: ": "I went on a date last night with a girl from the zoo. It was great. She’s a keeper.",
+  "Created at: ": "Sat Jul 14 19:21:03 +0000 2018"
+}6: {
+  "Tweet: ": "If at first you don't succeed, sky diving is not for you.",
+  "Created at: ": "Sat Jul 14 19:20:21 +0000 2018"
+}7: {
+  "Tweet: ": "Just read a few facts about frogs. They were ribbiting.",
+  "Created at: ": "Sat Jul 14 19:20:03 +0000 2018"
+}8: {
+  "Tweet: ": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
+  "Created at: ": "Sat Jul 14 19:19:33 +0000 2018"
+}9: {
+  "Tweet: ": "People who don't eat gluten are really going against the grain.",
+  "Created at: ": "Sat Jul 14 19:19:13 +0000 2018"
+}11: {
+  "Tweet: ": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
+  "Created at: ": "Sat Jul 14 19:17:09 +0000 2018"
+}10: {
+  "Tweet: ": "This morning I was wondering where the sun was, but then it dawned on me.",
+  "Created at: ": "Sat Jul 14 19:18:12 +0000 2018"
+}12: {
+  "Tweet: ": "Mountains aren't just funny, they are hill areas.",
+  "Created at: ": "Sat Jul 14 19:16:48 +0000 2018"
+}13: {
+  "Tweet: ": "A cannibal is someone who is fed up with people.",
+  "Created at: ": "Sat Jul 14 19:16:30 +0000 2018"
+}14: {
+  "Tweet: ": "I cut my finger chopping cheese, but I think that I may have grater problems.",
+  "Created at: ": "Sat Jul 14 19:16:17 +0000 2018"
+}15: {
+  "Tweet: ": "I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.",
+  "Created at: ": "Sat Jul 14 19:14:57 +0000 2018"
+}16: {
+  "Tweet: ": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",
+  "Created at: ": "Sat Jul 14 19:14:23 +0000 2018"
+}17: {
+  "Tweet: ": "I used to hate facial hair, but then it grew on me.",
+  "Created at: ": "Sat Jul 14 19:14:09 +0000 2018"
+}18: {
+  "Tweet: ": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
+  "Created at: ": "Sat Jul 14 19:13:14 +0000 2018"
+}19: {
+  "Tweet: ": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+  "Created at: ": "Sat Jul 14 19:11:59 +0000 2018"
+}
+--------------------Spotify Search--------------------
+Artist: Ace of Base
+Song Title: The Sign
+Album Title: The Sign (US Album) [Remastered]
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f330db0a0697468d97fc0e6e86483952
+--------------------Spotify Search--------------------
+Artist: Grizzly Bear
+Song Title: Two Weeks
+Album Title: Veckatimest
+Preview URL: https://p.scdn.co/mp3-preview/d7918651392a70a6f338485def1982f1865c23b7?cid=f330db0a0697468d97fc0e6e86483952
+--------------------Movie Search--------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Actor(s): Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+--------------------Movie Search--------------------
+Title: Bottle Rocket
+Year: 1996
+IMDB Rating: 7.1Rotten Tomatoes Rating: 85%
+Country: USA
+Language: English, Spanish
+Actor(s): Luke Wilson, Owen Wilson, Ned Dowd, Shea Fowler
+Plot: Three friends plan to pull off a simple robbery and go on the run.
+--------------------Spotify Search--------------------
+Artist: alt-J
+Song Title: Breezeblocks
+Album Title: An Awesome Wave
+Preview URL: https://p.scdn.co/mp3-preview/ce959086c6a1a2a518365b664f6e2ce9070366eb?cid=f330db0a0697468d97fc0e6e86483952
